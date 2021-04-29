@@ -1,0 +1,86 @@
+/* Global Style */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Section1 Style */
+
+.section1 {
+  background: #aeffbd;
+}
+
+/* Section2 Style */
+
+.section2 {
+  background: #9bf9cc;
+}
+
+/* Section3 Style */
+
+.section3 {
+  background: #e9ffa5;
+}
+
+/* Section4 Style */
+
+.section4 {
+  background: #a7f1ff;
+}
+
+/* Section5 Style */
+
+.section5 {
+  background: #a4c6ff;
+}
+
+/* Section6 Style */
+
+.section6 {
+  background: #d0b0ff;
+}
+
+/* Section7 Style */
+
+.section7 {
+  background: #ffabce;
+}
+
+/* Section8 Style */
+
+.section8 {
+  background: #ffad90;
+}
+
+/* Section9 Style */
+
+.section9 {
+  background: #93ffab;
+}
+
+/* Section10 Style */
+
+.section10 {
+  background: #86f9c5;
+}
+
+/* Section11 Style */
+
+.section11 {
+  background: #e4ff8d;
+}
+
+/* Section12 Style */
+
+.section12 {
+  background: #8ef1ff;
+}
